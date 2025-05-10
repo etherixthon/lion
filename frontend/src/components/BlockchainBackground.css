@@ -1,0 +1,24 @@
+.blockchain-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(to bottom right, #0f172a, #1e1b4b);
+}
+
+.blockchain-canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    pointer-events: none;
+}
+
+.blockchain-content {
+    position: relative;
+    min-height: 100vh;
+    width: 100%;
+    z-index: 1;
+}

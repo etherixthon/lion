@@ -1,0 +1,11 @@
+{
+    "name": "Hackatron Event 2025 - Audience Pass",
+    "description": "Welcome to Hackatron 2025 witness the brilliant minds of future generation shaping the future with their problem statement.",
+    "image": "https://ipfs.io/ipfs/QmYourImageCID", 
+    "attributes": [
+      { "trait_type": "Tier", "value": "Audience" },
+      { "trait_type": "Seat", "value": "C4" },
+      { "trait_type": "Date", "value": "2025-08-10" }
+    ]
+  }
+  
