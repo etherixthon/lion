@@ -117,7 +117,7 @@ export default function IssueTicket() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-black to-purple-900 p-4 md:p-8 text-white">
       <div className="max-w-4xl mx-auto">
-        <h1 className="text-3xl md:text-4xl font-extrabold text-purple-400 mb-6 text-center">
+        <h1 className="text-7xl md:text-4xl font-extrabold text-purple-400 mb-6 text-center">
           🎟️ Create New Event Ticket
         </h1>
 
