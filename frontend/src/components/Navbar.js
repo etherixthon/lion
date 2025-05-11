@@ -15,7 +15,7 @@ const Navbar = () => {
         <nav className="bg-gray-900 text-white shadow-lg">
             <div className="container mx-auto px-4">
                 <div className="flex justify-between items-center h-16">
-                    <Link to="/" className="font-bold text-purple-400" style={{ fontSize: '120px' }}>
+                    <Link to="/" className="border border-spacing-1 font-bold text-purple-400" style={{ fontSize: '100px' }}>
                         Etherix
                     </Link>
                     <div className="flex items-center space-x-4">
