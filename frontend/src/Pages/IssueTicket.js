@@ -58,7 +58,7 @@ export default function IssueTicket() {
     try {
       if (!ticketData.image) throw new Error('Please upload an image for the ticket');
 
-    const client = new NFTStorage({ token:"840418d0.d24f376443884770b25ac1eeed17af0a" });
+    const client = new NFTStorage({ token:"a07e0eae.0e2ef6d3ad564e20969bab677225c57b" });
     console.log('Uploading metadata to NFT.Storage...');
 
     const metadata = await client.store({
